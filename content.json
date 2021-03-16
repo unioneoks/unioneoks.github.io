@@ -1,0 +1,108 @@
+{
+ "address": "15frBaFqvVuuStLpEeFMjqM56DbXjE4N5V",
+ "address_index": 65401871,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "",
+ "files": {
+  "QQ\u56fe\u724720210218100051.jpg": {
+   "sha512": "5d511cbbf1b4f21e79c9b60c52b87cb7bfb523371e3151ff3d4acfcfc38ba119",
+   "size": 45419
+  },
+  "Untitled-1.html": {
+   "sha512": "394e73ceaca40d6e6835ee913f6a0a02cc2368dcf218da6fc841e8355bcec61e",
+   "size": 480
+  },
+  "about.html": {
+   "sha512": "a80ffe5c6d6a1f3659b2094095178622abef5cb6148f33251efcc6935799b83c",
+   "size": 3930
+  },
+  "assets/apple-icon-180x180.png": {
+   "sha512": "e820f572c1909ef898d73bac16eec8225cb0d39ee86aabd5d1e02284b4c58f40",
+   "size": 3136
+  },
+  "assets/images/profil.jpg": {
+   "sha512": "5d511cbbf1b4f21e79c9b60c52b87cb7bfb523371e3151ff3d4acfcfc38ba119",
+   "size": 45419
+  },
+  "assets/images/space.jpg": {
+   "sha512": "bf71b17397c762daba13db570a4bcc795fd4d8a5647dde04c2d912cbfe360016",
+   "size": 348266
+  },
+  "assets/images/work001-01.jpg": {
+   "sha512": "294f88ade68b69b892396c5e5d80e8aea78e8305ba7d6ba41bfc971a94a802c6",
+   "size": 139039
+  },
+  "assets/images/work001-02.jpg": {
+   "sha512": "9dec726a57c85ebba2f9e25b2b143b1cf84685cbcf756fd34223fb21ed9dbb3d",
+   "size": 182685
+  },
+  "assets/images/work001-03.jpg": {
+   "sha512": "72ecc91462c3433f1d92edf07cb1e5514a84eb5d0206ba9369ac7418e08c8e48",
+   "size": 240315
+  },
+  "assets/images/work001-04.jpg": {
+   "sha512": "998bd3ad75104e26e42238b0e444a15647f7a9dc07bcc9e97f45dc75da429138",
+   "size": 179110
+  },
+  "assets/images/work01-hover.jpg": {
+   "sha512": "05d8e5fdfb4366bcad30f6d15588cb33762c9839ebecf146ec1821727b726080",
+   "size": 90729
+  },
+  "assets/images/work02-hover.jpg": {
+   "sha512": "5fdb090ab39a26551ebc4d0976c27e4f69bca7f3c3f42070c337d8ad902f87c7",
+   "size": 78188
+  },
+  "assets/images/work03-hover.jpg": {
+   "sha512": "f48c2eb113aabe2dbc4124da2078cc0bd2bc612187e15c81866043e665bdbd48",
+   "size": 115358
+  },
+  "components.html": {
+   "sha512": "c31670f3e73a34f4c2934888fef8926fea27f94302657e04844f83675fb011d5",
+   "size": 8063
+  },
+  "contact.html": {
+   "sha512": "4b5d04e934911fc5f6f603aaa88e480c6116b7399bb1cbe73f63a7ba7ccc6a61",
+   "size": 5417
+  },
+  "index.html": {
+   "sha512": "2c6d2f66ba30e7999ac4944d67409818fc5f7a83e1921c6a48d35b1f975fee93",
+   "size": 3190
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "76a24d167e8a4c45f7d1b315efe31e4b4ccb19efef011c080994c94045ff4c93",
+   "size": 5088
+  },
+  "main.3f6952e4.css": {
+   "sha512": "d532356186d876f2d91f177216d64bbd7a8a85fa91fb1f9bb8c8f94fdf725c9c",
+   "size": 85276
+  },
+  "main.70a66962.js": {
+   "sha512": "57d2ffa54d3f9b75963b20a3807fef2d9c696b1a30d159948ebed8f337dfb88f",
+   "size": 138255
+  },
+  "sample/sample-page.html": {
+   "sha512": "451563828697d1861cb129c7c6b796550e752adced82cf859aa03bf6949817b7",
+   "size": 2409
+  },
+  "work.html": {
+   "sha512": "2492c937ba76c03db85e0d4d7ba2b5ebc258f3d2c0573f560f2373ad4a3f9f42",
+   "size": 4435
+  },
+  "works.html": {
+   "sha512": "4445684ac0cb1eec27c6fc28363aaf8739e1f1d97c239cadf668e259bb87d1b7",
+   "size": 7664
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1615520019,
+ "postmessage_nonce_security": true,
+ "signers_sign": "GwQB9nwK259QyYw1xvPE0LQGmz00t5UFOn5+ccHSGAnhPIkDLAliCINuvimfAwvEVa7b2xHd5JPW4B22nejPGYA=",
+ "signs": {"15frBaFqvVuuStLpEeFMjqM56DbXjE4N5V": "HNzFbRzMv2D4bkxKKWPgef21Y2t9Icqg/EmnRHsb2v4gOKOd4fb5iaRRjdA2Kymgt67YkvfKRte906x5G0EELqI="},
+ "signs_required": 1,
+ "title": "anonymous01001union-new",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.7.2"
+}
