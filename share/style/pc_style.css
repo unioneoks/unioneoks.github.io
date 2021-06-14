@@ -1,0 +1,86 @@
+body{ font-family:"PingFangSC-Regular","Microsoft YaHei", Arial, "sans-serif"; background: #fff;}
+
+.top{width: 100%; }
+.top .top-content{ width: 1440px; margin:0 auto; height: 100%;}
+.top .top-content .bg{height: 694px;background: url("../images/pc_bg1.png")/*tpa=http://mf.sjkj777.cn/share/images/pc_bg1.png*/ center right no-repeat;background-size: 55%;width: 1000px;margin: 0 auto}
+.top .top-content .bg h1{font-size: 18px;background: url("../images/logo.png")/*tpa=http://mf.sjkj777.cn/share/images/logo.png*/ no-repeat; height: 28px; line-height: 28px; padding-left:41px;background-size: contain; font-weight: 400;color:#0F0F0F;  }
+.t-body{width: 1204px; margin: 0 auto;}
+.t-info .c-left{ width: 500px; height: 493px;  float: left; margin-right:187px;  }
+.c-left{color:#111111; margin-top:73px; }
+.c-left dl{margin-bottom:160px;}
+.c-left dl dt{ font-size: 52px; margin-bottom:25px;}
+.c-left dl dd{ font-size: 28px;}
+.c-left ul{list-style-type: none;}
+.c-left ul li{float: left;margin-bottom:19px; background-color: #0078FF;border-radius: 8px;}
+.c-left ul li:nth-child(even){margin-left: 20px;}
+.c-left ul li a{display: block; width: 218px; height: 60px;text-decoration: none;line-height: 60px;color: white;border-radius: 8px;}
+.c-left ul li a img{float: left;width: 30px;margin: 15px 15px auto 30px;}
+.c-left ul li.win a{background-color: #BCBCBC;}
+.c-left ul li.mac a{background-color: #BCBCBC;}
+
+.c-left ul li.code-con{ position: relative; }
+.c-left ul li.code-con .codeapp{position: absolute; left: 2px; top:63px; box-shadow: 0px 1px 10px #999; overflow: hidden;  width: 216px; height: 220px; background:#fff; border-radius: 3px;}
+.c-left ul li.code-con .codeapp img{ width: 150px; height:150px; margin: 35px 0 0 35px; }
+
+.center{ background: #fff; }
+.c-body{ width: 1204px; overflow: hidden; margin: 0 auto; padding-top: 32px; padding-bottom: 70px;color:black;}
+.c-body h2{ text-align: center; font-size: 24px; color: #9B9B9B ; margin-bottom:45px;color:black;}
+.ys-con{display: flex;justify-content:space-between;flex-wrap: wrap;}
+.ys-con dl{width: 530px;height: 100px;}
+.ys-con dl:nth-child(Odd){margin-left: 100px;}
+.ys-con dl dt{margin-bottom:20px; float: left;margin-right: 40px;}
+.ys-con dl dt img{width: 100px;}
+.ys-con dl dd{ font-size: 12px; color: #B3B3B3; line-height: 1.3  }
+.ys-con dl dd h4{font-size: 24px; color: #777777; margin-bottom: 12px;margin-top: 22px; }
+
+.footer{  height: 340px;}
+.footer .f-con{height: 340px; margin: 0 auto; background: url("../images/pc_pic.png")/*tpa=http://mf.sjkj777.cn/share/images/pc_pic.png*/ top center no-repeat; overflow: hidden;}
+.f-con .f-tit{ overflow: hidden; font-size:18px; text-align: center; color: rgba(255,255,255,.7); width: 650px; margin: 0 auto; margin-top:24px;  height: 100px; background: rgba(244,242,242,.2); border-radius: 60px; }
+.f-con .f-tit dt{  margin-top:16px; margin-bottom: 14px;  }
+.f-con .f-tit dd{ }
+.f-line{overflow: hidden;}
+.f-line p{color: white; font-size: 30px; text-align: center; margin: 30px 0;}
+.downlist{ overflow: hidden; width: 1000px; margin: 0 auto; }
+.downlist a{display: block; float: left;text-decoration: none;}
+.downlist dl{  text-align: center; width: 200px;height: 155px;background-color: white;border-radius: 4.44px;margin-block-start: 0;margin-block-end: 0;}
+.downlist dl:nth-child(Odd){margin-left: 20px;}
+.downlist dl dt{ margin-bottom:18px;  }
+.downlist dl dt img{ width: 50px;margin-top: 25px;}
+.downlist dl dd{font-size: 14px; color: #797979;margin-inline-start: 0;}
+.downlist .b-mac{background-color: #BCBCBC;}
+.downlist .b-win{background-color: #BCBCBC;}
+
+.copy-right {text-align: center; font-size: 12px; color: #4A4A4A ; padding:22px 0;}
+
+a.kefu {
+    transition: 0.2s ease-out;
+    position: fixed;
+    top: 50%;
+    width: 70px;
+    right: 0;
+    font-size: 12px;
+    background-color: rgb(34,159,255);
+    z-index: 9999;
+}
+a.kefu i{
+    display: block;
+    width: 31px;
+    height: 30px;
+    background: url("../images/chat.png")/*tpa=http://mf.sjkj777.cn/share/images/chat.png*/;
+    margin: 15px auto 4px auto;
+    border-radius: 2px;
+}
+a.kefu div{
+    position: relative;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    height: 25px;
+    line-height: 15px;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    z-index: 9999;
+    margin-top: 10px;
+}
